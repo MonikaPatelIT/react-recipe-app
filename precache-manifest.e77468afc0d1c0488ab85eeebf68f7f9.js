@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/react-recipe-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/react-recipe-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "d76f833cdcf89cf1c0d8",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-recipe-app/static/js/main.d76f833c.chunk.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/react-recipe-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/react-recipe-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
