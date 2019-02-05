@@ -8,8 +8,8 @@
   "runtime~main.js": "/react-recipe-app/static/js/runtime~main.11f9fca1.js",
   "runtime~main.js.map": "/react-recipe-app/static/js/runtime~main.11f9fca1.js.map",
   "static/media/bootstrap.min.css": "/react-recipe-app/static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static/css/1.c4eb12d1.chunk.css.map": "/react-recipe-app/static/css/1.c4eb12d1.chunk.css.map",
   "static/css/main.ee370247.chunk.css.map": "/react-recipe-app/static/css/main.ee370247.chunk.css.map",
+  "static/css/1.c4eb12d1.chunk.css.map": "/react-recipe-app/static/css/1.c4eb12d1.chunk.css.map",
   "index.html": "/react-recipe-app/index.html",
   "precache-manifest.e77468afc0d1c0488ab85eeebf68f7f9.js": "/react-recipe-app/precache-manifest.e77468afc0d1c0488ab85eeebf68f7f9.js",
   "service-worker.js": "/react-recipe-app/service-worker.js"
